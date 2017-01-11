@@ -1,0 +1,14 @@
+{
+  "version": "1.0.1",
+  "firstRead": {//最优先加载项
+  	"zepto.js":"/assets/js/zepto.min.js"
+  },
+  "js": {
+		"base.js":"/js/base.js"
+		//"demo.js":"/js/demo.js"
+  },
+  "css": {
+		//"main.css": "/css/main.min.css",
+		//"testmain.css": "/css/testmain.min.css"
+  }
+}

@@ -1,0 +1,16 @@
+CACHE MANIFEST
+#缓存清单
+../js/appcache.js
+../images/_2015111521637.jpg
+../assets/js/zepto.min.js
+#../js/appcache2.js 
+
+#缓存清单的在线白名单
+NETWORK:
+/favicon.ico
+../js/appcache2.js
+
+
+#资源无法访问时，浏览器会使用该页面
+FALLBACK:
+#/ ../html/index.html
