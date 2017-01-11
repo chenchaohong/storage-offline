@@ -3,8 +3,9 @@
 
 开发过程中：使用 gulp 命令，自动打开浏览器，实现代码同步显示。
 
+src/http   为本地nodeJS模拟服务器
 
-appcache.js为 application cache demo
+src/js/appcache.js为 application cache demo
 
 
 localSet 插件功能：使用localStorage缓存js和css文件，减少http请求和页面渲染时间，适用于Web移动端H5页面制作。 
