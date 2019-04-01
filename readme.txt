@@ -11,4 +11,4 @@ src/js/appcache.js为 application cache demo
 localSet 插件功能：使用localStorage缓存js和css文件，减少http请求和页面渲染时间，适用于Web移动端H5页面制作。 
  * 使用方法：   
  *   1.使用此插件前，需要给插件的pageVersion变量赋值，修改版本值即可。 
- *   2.加载Js：由于js加载有顺序要求，所以需要将后加载的脚本作为前一个脚本的回调参数传入
+ *   2.加载Js：由于js加载有顺序要求，所以需要将后加载的脚本作为前一个脚本的回调参数传入  
